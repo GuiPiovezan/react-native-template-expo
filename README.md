@@ -1,25 +1,4 @@
-## Expo template with React Native Paper
-
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://storybook.js.org/)
-[![Node.js Package](https://github.com/Bryant-Anjos/template-expo-with-paper/actions/workflows/nodejs.yml/badge.svg)](https://github.com/Bryant-Anjos/template-expo-with-paper/actions/workflows/nodejs.yml)
-[![Release Workflow](https://github.com/Bryant-Anjos/template-expo-with-paper/actions/workflows/release.yml/badge.svg)](https://github.com/Bryant-Anjos/template-expo-with-paper/actions/workflows/release.yml)
-
-Template to build cross-platform apps using react with typescript in expo. Pre configured with the React Native Paper Ui kit, redux, and eslint with prettier.
-
-## Installation
-
-Copy the `.env.enxample` and rename to `.env`, then add the required values to variables.  
-```bash
-$ yarn install
-```
-
-## Running the app
-
-```bash
-$ yarn start
-```
+## Template Expo com react-native-paper, axios, date-fns, gestos com react-native-gesture-handler e react-native-reanimated. Plugins utilizados EditorConfig, ESLint, Prettier, StyledComponents, utilizando TypeScript.
 
 ## Plugins to work with this template
 [Editorconfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)  
@@ -28,8 +7,8 @@ $ yarn start
 [Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)  
 [Typescript import sorter](https://marketplace.visualstudio.com/items?itemName=mike-co.import-sorter)  
 
-## Project dependencies and dev dependencies
-### Dependencies
+## Dependências do projetos e dependências em desenvolvimento
+### dependencies
 [axios](https://github.com/axios/axios)  
 [date-fns](https://date-fns.org)  
 [expo](https://docs.expo.io)  
@@ -51,12 +30,12 @@ $ yarn start
 [styled-components](https://styled-components.com)  
 [typesafe-actions](https://github.com/piotrwitek/typesafe-actions)  
 [yup](https://github.com/jquense/yup)  
-#### Dev dependencies ####
+
+#### devDependencies ####
 [babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver)  
 [commitlint](https://commitlint.js.org)  
 [commitizen](https://commitizen-tools.github.io/commitizen)  
 [eslint](https://eslint.org)  
-[husky](https://typicode.github.io/husky)  
 [jest](https://jestjs.io)  
 [lint-staged](https://github.com/okonet/lint-staged)  
 [miragejs](https://miragejs.com)  
@@ -120,4 +99,4 @@ $ yarn start
 
 ## Author
 
-- [Bryant Moreira dos Anjos](https://github.com/Bryant-Anjos)
+- [Guilherme Piovezan](https://github.com/GuiPiovezan)
